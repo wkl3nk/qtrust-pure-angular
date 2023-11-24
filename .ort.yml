@@ -1,0 +1,9 @@
+excludes:
+  paths:
+    - pattern: '*.spec.*'
+      reason: 'TEST_OF'
+      comment: 'Tests in project root directory.'
+  scopes:
+    - pattern: 'devDependencies'
+      reason: 'DEV_DEPENDENCY_OF'
+      comment: 'Packages for development only.'
