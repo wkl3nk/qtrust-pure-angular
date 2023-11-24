@@ -1,6 +1,10 @@
 {
   "name": "qtrust-pure-angular",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wkl3nk/qtrust-pure-angular.git"
+  } ,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
