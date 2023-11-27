@@ -1,10 +1,13 @@
 {
-  "name": "qtrust-pure-angular",
-  "version": "0.0.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wkl3nk/qtrust-pure-angular.git"
-  } ,
+  "name": "@qtrust/qtrust-pure-angular",
+  "version": "1.0.0",
+  "description": "A sample Angular web application that demonstrates how to use authentication as OpenID connect client.",
+  "keywords": ["qtrust", "angular"],
+  "author": {
+    "name": "Wolfgang Klenk",
+    "email": "wolfgang.klenk2@bosch.com"
+  },
+  "repository": "github:wkl3nk/qtrust-pure-angular",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -12,7 +15,6 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^16.2.0",
     "@angular/common": "^16.2.0",
