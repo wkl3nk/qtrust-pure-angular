@@ -4,6 +4,8 @@ import { OidcSecurityService } from 'angular-auth-oidc-client';
 /**
  * Copyright (C) 2023 Wolfgang Klenk <wolfgang.klenk2@bosch.com>
  *
+ * SPDX-License-Identifier: ISC
+ *
  */
 
 @Component({

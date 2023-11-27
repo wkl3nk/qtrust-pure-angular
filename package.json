@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A sample Angular web application that demonstrates how to use authentication as OpenID connect client.",
   "keywords": ["qtrust", "angular"],
+  "license": "ISC",
   "author": {
     "name": "Wolfgang Klenk",
     "email": "wolfgang.klenk2@bosch.com"
